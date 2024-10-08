@@ -68,6 +68,7 @@
     <Content Include="Views\web.config" />
     <Content Include="Views\_ViewImports.cshtml" />
     <Content Include="Views\_ViewStart.cshtml" />
+    <Content Include="Views\Sample.cshtml" />
     <None Include="Web.config">
       <SubType>Designer</SubType>
     </None>
